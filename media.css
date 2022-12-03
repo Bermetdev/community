@@ -1,0 +1,89 @@
+@media(max-width:414px){
+    .send-money-wrapper{
+        width: 100%;
+        display: block;
+        margin-top: 40px;
+    }
+    .title-send-money h1{
+        font-size:28px;
+        text-align: center;
+    }
+    .line-send-money{
+        margin: 25px auto;
+    }
+    .send-money-wrapper p{
+        opacity: 0.6;
+        font-weight: 400;
+        padding-bottom: 34px;
+    }
+    .buttons-send-money{
+        display: flex;
+        column-gap: 10px;
+        justify-content: center;
+
+    }
+    .image-send-money{
+        display: none;
+    }
+    .img-real-time{
+        display: none;
+    }
+    .it-works-wrapper h2 {
+        font-size: 40px;
+    }
+    .it-works-wrapper p {
+        font-size: 20px;
+    }
+    .title-real-time h3 {
+        font-size: 30px;
+        font-weight: 380;
+    }
+   
+    .users-left-title h3 {
+        font-size: 25px;
+        font-weight: 300;
+    }
+    .title-line {
+        width: 48px;
+        margin: 13px 0 20px;
+    }
+    .card {
+        width: 260px;
+        height: 230px;
+        padding: 23px;
+        border-radius: 13px;
+    }
+    
+    .title-card p {
+        font-size: 16px;
+        font-weight: 300;
+        padding-bottom: 20px;
+    }
+    
+    .photo-card  {
+        column-gap: 15px;
+    }
+    footer{
+        display: block;
+    }
+    .footer-links {
+        column-gap: 60px;
+    }
+    
+    .footer-links div li {
+        font-weight: 500;
+    }
+    .wrapper-contact {
+        padding: 20px;
+        margin-top: 25px;
+        width: 300px;
+        height: 250px;
+    }
+    .wrapper-contact h4, h5 {
+        font-size: 20px;
+    }
+    .wrapper-contact div h5 {
+        font-size: 20px;
+        font-weight: 300;
+    }
+}
